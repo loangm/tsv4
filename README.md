@@ -2,7 +2,7 @@
 
 Prototype v2 de la boutique en ligne e-commerce **Textil Showroom Paris**. Développé avec Vue 2 & Vuetify.
 
-🔗 [textilshowroom-v2.vercel.app](https://textilshowroom-v2.vercel.app)
+🔗 [textil-showroom-v2.vercel.app](https://textil-showroom-v2.vercel.app)
 
 -----
 
