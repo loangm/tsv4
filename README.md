@@ -1,24 +1,50 @@
-# vue
+# Textil Showroom — Prototype v2
 
-## Project setup
-```
+Prototype v2 de la boutique en ligne e-commerce **Textil Showroom Paris**. Développé avec Vue 2 & Vuetify.
+
+🔗 [textilshowroom-v2.vercel.app](https://textilshowroom-v2.vercel.app)
+
+-----
+
+## Stack technique
+
+|Technologie|Version|
+|-----------|-------|
+|Vue.js     |2.6.11 |
+|Vuetify    |2.4.0  |
+|Vue Router |3.2.0  |
+|Animate.css|4.1.1  |
+|Vue CLI    |4.5.0  |
+|Sass       |1.32.0 |
+|Core-JS    |3.6.5  |
+|Node.js    |18.x   |
+
+-----
+
+## Installation & développement local
+
+### Installer les dépendances
+
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+### Lancer en mode développement (hot-reload)
+
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+### Compiler pour la production
+
+```bash
 npm run build
 ```
 
-### Lints and fixes files
-```
+### Linter
+
+```bash
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> Voir la [Configuration Reference](https://cli.vuejs.org/config/) pour plus d’options.
